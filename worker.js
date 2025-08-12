@@ -1,4 +1,4 @@
-const ALLOWED_ORIGIN = "https://mlcheckernew.pages.dev"; 
+const ALLOWED_ORIGIN = "https://mlcheckernew1.pages.dev"; 
 const ADMIN_KEY = "Azib7783"; // ganti dengan password download
 
 export default {
